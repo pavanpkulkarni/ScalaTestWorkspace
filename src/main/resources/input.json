@@ -1,0 +1,5 @@
+{"Customer ID":"001", "Customer Name":"John Doe", "Product":"Dart Board", "Product ID":"123", "Price":70, "Purchase Date":"2019-04-04"},
+{"Customer ID":"002", "Customer Name":"Jane Doe", "Product":"Keyboard", "Product ID":"124", "Price":49.99, "Purchase Date":"2019-04-03"},
+{"Customer ID":"003", "Customer Name":"Hercule Poirot", "Product":"Magnifying Glass", "Product ID":"125", "Price":249.99, "Purchase Date":"2019-04-02"},
+{"Customer ID":"004", "Customer Name":"Frank Underwood", "Product":"Water Rower", "Product ID":"323", "Price":3999.99, "Purchase Date":"2019-04-02"},
+{"Customer ID":"005", "Customer Name":"Pika Achu", "Product":"Duracell Batteries", "Product ID":"130", "Price":15.99, "Purchase Date":"2019-04-01"}

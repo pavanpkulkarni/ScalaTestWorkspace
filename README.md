@@ -4,6 +4,9 @@
 1. Write a Scala program to read a JSON file with 6 fields {Customer ID, Customer Name, Product, Product ID, Price and Purchase Date}. Read the file using this schema and write the same in CSV format (comma-delimited).
 2. In continuation to above question, now create a new file using Scala in Parquet format by including only 5 fields. {Customer ID, Customer Name, Product, Price and Purchase Date}
 
+## Source Code
+
+The source code can be found here [ScalaJSONToCSV.scala](https://github.com/pavanpkulkarni/ScalaTestWorkspace/blob/master/src/main/scala/com/pavanpkulkarni/workspace/ScalaJSONToCSV.scala)
 
 ## Solution to Part 1
 1. A JSON file is [input.json](https://github.com/pavanpkulkarni/ScalaTestWorkspace/blob/master/src/main/resources/input.json) is created under resources directory with sample data 
